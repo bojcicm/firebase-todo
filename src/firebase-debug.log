@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\mbojcic\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.0
+[debug] Platform:     win32
+[debug] Node Version: v5.9.1
+[debug] Time:         Mon May 23 2016 18:15:56 GMT+0200 (Central European Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\mbojcic\Documents\Visual Studio 2015\Projects\firebase-todoApp\src
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\mbojcic\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.0
+[debug] Platform:     win32
+[debug] Node Version: v5.9.1
+[debug] Time:         Mon May 23 2016 23:25:39 GMT+0200 (Central European Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\mbojcic\Documents\Visual Studio 2015\Projects\firebase-todoApp\src
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
